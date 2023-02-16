@@ -1,0 +1,3 @@
+chave 13
+data 13
+condicao apro

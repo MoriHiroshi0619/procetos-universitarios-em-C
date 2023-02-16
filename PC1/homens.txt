@@ -1,0 +1,8 @@
+
+
+nome = hiroshi
+sexo = 1
+ cor de olhos = castanho
+altura = 192
+peso = 90
+data = 19
