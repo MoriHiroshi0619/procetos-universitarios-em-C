@@ -1,4 +1,0 @@
-nome = hirows
- rua de endereco = caralho
- cep =79710100
- telefone = 1393921800
